@@ -1,0 +1,16 @@
+{
+  "name": "talentflow-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.15.0",
+    "dexie": "^3.2.3",
+    "react-beautiful-dnd": "^13.1.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}
